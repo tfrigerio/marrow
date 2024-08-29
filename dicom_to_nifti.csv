@@ -1,0 +1,249 @@
+dicom_path,nifti_path
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_0.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_1.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_2.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B08s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_3.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B08s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_4.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_5.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_6.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_8.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_7.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_9.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_12.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_13.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_10.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_11.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_14.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_15.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_16.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_17.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_18.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_19.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_20.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_21.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_22.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_25.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_24.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_23.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_26.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_27.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_28.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_29.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_30.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_31.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_32.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_33.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_34.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_36.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_35.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_37.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_38.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_39.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_40.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_41.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_42.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_43.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_44.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_45.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_46.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_47.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_48.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_49.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_50.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_52.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_53.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_51.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_54.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_55.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_56.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_57.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_58.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_59.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_60.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_61.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_62.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_64.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_63.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_65.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_66.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_67.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_68.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_69.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_70.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_71.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_72.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_73.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_74.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_75.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_76.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_77.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_78.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_79.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_80.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_81.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Fj044,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_83.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Fj044,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_82.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Fj044,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_84.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Fj044,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_85.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kr040,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_89.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kr040,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_86.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kr040,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_87.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kr040,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_88.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_90.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_91.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_92.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_93.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_94.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_95.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_96.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_97.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_98.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_99.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_100.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_101.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_102.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_103.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_104.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_105.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_106.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_107.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_108.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_109.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_111.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_110.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_112.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_113.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_114.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_115.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_116.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_117.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_118.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_119.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_120.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_121.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_123.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_122.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dd039,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_125.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dd039,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_124.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_126.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_127.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_128.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_129.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_130.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_131.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_132.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_133.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_134.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_135.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_136.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_138.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_137.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ht045,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_140.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ht045,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_141.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ht045,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_139.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ht045,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_142.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_143.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_144.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_145.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_146.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_147.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_148.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_149.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_150.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_151.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gg047,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_155.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gg047,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_152.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gg047,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_153.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gg047,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_154.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mm051,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_157.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mm051,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_156.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mm051,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_158.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mm051,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_159.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_160.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_161.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_162.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_163.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_165.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_164.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B41s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_166.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_167.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_168.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_169.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_170.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_171.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_172.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_173.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_174.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_175.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_176.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_177.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_178.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_179.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_180.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/3D_AbdRoutine_5.0_B31s_9,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_181.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_182.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_183.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_184.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_185.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_186.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_187.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_188.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_189.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_190.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_191.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_192.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_193.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_194.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_195.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_196.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_197.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_198.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_199.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_200.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_201.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_202.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_203.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_204.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_205.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Hk050,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_209.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Hk050,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_207.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Hk050,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_206.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Hk050,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_208.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B31s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_210.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B08s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_211.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B31s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_213.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B31s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_212.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_214.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_215.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_217.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_216.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_218.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_219.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_220.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_221.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_222.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_223.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_224.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AC_AbdRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_225.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/3D_AbdRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_226.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_227.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_228.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_229.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_230.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_231.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_232.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_234.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_233.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B31s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_235.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B08s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_236.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_238.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B31s_[CT128]_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_237.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/ChestRoutine_5.0_B41s_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_239.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AC_AbdRoutine_5.0_B08s_2,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_240.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_241.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/Localizers_501,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_242.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AbdRoutine_5.0_B41s_3,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_243.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/3D_AbdRoutine_5.0_B31s_4,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_244.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/ChestRoutine_5.0_B41s_[CT128]_7,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_245.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/3D_ChestRoutine_5.0_B31s_8,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_246.nii.gz
+/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AC_ChestRoutine_5.0_B08s_6,/radraid/apps/personal/tfrigerio/UCLA_Lu_nifti_2/converted_series_approved_247.nii.gz
