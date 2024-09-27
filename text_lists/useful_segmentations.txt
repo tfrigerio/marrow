@@ -4,10 +4,6 @@ femur_left.nii.gz
 femur_right.nii.gz
 hip_left.nii.gz
 hip_right.nii.gz
-iliac_artery_left.nii.gz
-iliac_artery_right.nii.gz
-iliac_vena_left.nii.gz
-iliac_vena_right.nii.gz
 rib_left_1.nii.gz
 rib_left_2.nii.gz
 rib_left_3.nii.gz

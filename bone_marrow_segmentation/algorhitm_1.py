@@ -25,7 +25,9 @@ def threshold_segmentation_of_bone_marrow(bone_array, threshold_up, threshold_do
     bone_marrow_array_mask[bone_array < threshold_up] = 1
     bone_marrow_array_mask[bone_array <= threshold_down] = 0
     bone_marrow_array_mask = bone_marrow_array_mask * bone_mask_array
-    return bone_marrow_array_mask
+    cortical_bone_array_mask = np.zeros(bone_array.shape)
+    cortical_bone_array_mask[bone_array >= threshold_up] = 1
+    return bone_marrow_array_mask, cortical_bone_array_mask
 
 #Step 4 Zero-shot segmentation of bone marrow
 
@@ -33,8 +35,8 @@ def threshold_segmentation_of_bone_marrow(bone_array, threshold_up, threshold_do
 
 #Step 6 Postprocessing
 
-def opening3D(bone_marrow_array_mask, iterations):
-    kernel = np.ones((5, 5, 5), np.uint8)
+def opening3D(bone_marrow_array_mask, iterations = 1, kernel_size=5):
+    kernel = np.ones((kernel_size, kernel_size, kernel_size), np.uint8)
     eroded = binary_erosion(bone_marrow_array_mask, structure=kernel, iterations=iterations)
     opened = binary_dilation(eroded, structure=kernel, iterations=iterations)
     return opened
@@ -65,7 +67,7 @@ def connected_component_processing(bone_marrow_array_mask,bone_mask):
 def save_masks(connected_components, output_path):
     nib.save(connected_components, output_path)
 
-def full_pipeline(image_path, bone_mask_path, output_path, length):
+def full_pipeline(image_path, bone_mask_path, output_path, output_path_cortical, length):
     image, bone_mask, image_array, bone_mask_array = load_image_and_bone_mask(image_path, bone_mask_path)
     if image_array.shape != bone_mask_array.shape:
         if image_array.shape[-1] == 1:
@@ -73,12 +75,21 @@ def full_pipeline(image_path, bone_mask_path, output_path, length):
         else:
             raise ValueError('Image and mask have different shapes')
     bone_array = isolate_bone_on_image(image_array, bone_mask_array)
-    bone_marrow_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 350, -100, bone_mask_array)
-    if np.shape(image_array)[0] >= 100 and np.shape(image_array)[1] >= 100 and np.shape(image_array)[2] >= 100:
-        bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1)
+    bone_marrow_array_mask, cortical_bone_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 350, -100, bone_mask_array)
+    # if np.shape(image_array)[0] >= 100 and np.shape(image_array)[1] >= 100 and np.shape(image_array)[2] >= 100:
+    #     bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1)
+    if np.shape(image_array)[0] >= 512:
+        bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1, 4)
+    elif np.shape(image_array)[0] >= 256:
+        bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1, 2)
+    else:
+        bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1, 1)
     
+        
     connected_components = connected_component_processing(bone_marrow_array_mask, bone_mask)
+    connected_components_cortical = connected_component_processing(cortical_bone_array_mask, bone_mask)
     save_masks(connected_components, output_path)
+    save_masks(connected_components_cortical, output_path_cortical)
     return print(bone_mask_path[length:])
 
 image_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_PSMA_trial_nifti_data/converted_series/converted_series_approved_'
@@ -101,9 +112,10 @@ for i in range(0,248):
     if not os.path.exists(bone_mask_path):
         continue
     output_path = output_path_base+str(i)+'_marrow.nii.gz'
+    output_path_cortical = output_path_base+str(i)+'_cortical.nii.gz'
     print('New Scan: '+str(i))
     t_0 = time.time()
-    full_pipeline(image_path, bone_mask_path, output_path, length)
+    full_pipeline(image_path, bone_mask_path, output_path, output_path_cortical, length)
 
     t_1 = time.time()
     if t_1-t_0<=10:

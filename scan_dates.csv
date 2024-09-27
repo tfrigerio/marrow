@@ -1,0 +1,456 @@
+Scan Date,File Path
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0154-0001.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0154-0363.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B31s_2/IM-0149-0180.dcm
+20180315,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0154-0000.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B08s_3/IM-0153-0051.dcm
+20180312,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/3_MIN._STATIC_LU-177-PSMA_1000/IM-0154-0001.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0154-0000.dcm
+20180312,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0154-0000.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B08s_[CT128]_3/IM-0150-0115.dcm
+20180314,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/48_HRS_POST_Lu-177_PSMA-_BELOW_KNEES_1000/IM-0154-0000.dcm
+20180315,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/72_HRS_POST_Lu-177_PSMA_BELOW_KNEES_1000/IM-0154-0000.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0154-0001.dcm
+20180314,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0154-0000.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Td018/study/Body_3.0_B31s_[CT128]_2/IM-0152-0125.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/PSMA_2-pos_SPECT-Chest-Neck-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0058-0001.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0058-0074.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_2/IM-0054-0041.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/PSMA_2-pos_SPECT-Pelvis-Abdomen_-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0058-0001.dcm
+20180315,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0055-0000.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B08s_3/IM-0057-0060.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0055-0000.dcm
+20180312,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0055-0000.dcm
+20180314,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0055-0000.dcm
+20180313,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ha021/study/Body_3.0_B31s_[CT128]_2/IM-0056-0048-0001.dcm
+20171211,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0135-0036.dcm
+20171204,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/Lu-177_PSMA_Whole_Body_1000/IM-0138-0000.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/LU-177_PSMA_CHEST_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0138-0001.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0135-0036.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0138-0000.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0131-0014.dcm
+20171211,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0132-0004.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/Localizers_501/IM-0137-0001-0002.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0132-0004.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0133-0012.dcm
+20171206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/48_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0138-0000.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/24_HRS_ABDO_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0138-0001.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0134-0059.dcm
+20171205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0136-0087.dcm
+20171207,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg003 - No Quant/study/72_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0138-0000.dcm
+20180305,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8/IM-0113-0008.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0118-0062.dcm
+20180215,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0120-0000.dcm
+20180212,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/4_HR_Lu-177_PSMA_Whole_Body_1000/IM-0120-0000.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0120-0001.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0114-0026.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0115-0041.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/24_HR_Lu-177_PSMA_Whole_Body_1000/IM-0120-0000.dcm
+20180214,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_CHEST-NECK_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0120-0001.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0116-0012.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0117-0039.dcm
+20180214,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0120-0000.dcm
+20180213,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0119-0105.dcm
+20180409,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rh014 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_4/IM-0112-0040.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0012-0001.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0012-0001.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B31s_2/IM-0010-0144.dcm
+20180517,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0009-0000.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B08s_3/IM-0011-0205.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/NM_PSMA_THERAPY_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0012-0096.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0012-0000.dcm
+20180514,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0012-0000.dcm
+20180516,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0009-0000.dcm
+20180515,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba027/study/Body_3.0_B31s_[CT128]_2/IM-0010-0076-0002.dcm
+20180122,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0167-0060.dcm
+20180110,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/Lu-177_PSMA_Whole_Body_1000/IM-0170-0000.dcm
+20180108,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/4_hrs_Lu-177_PSMA_Whole_Body_1000/IM-0170-0000.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0167-0060.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0170-0000.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/LU-177_PSMA_SPECT-CT_CHEST_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0170-0001.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0163-0052.dcm
+20180122,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0164-0047.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/Localizers_501/IM-0169-0000-0001.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0170-0001.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0164-0047.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0165-0073.dcm
+20180116,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/9_DAYS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0170-0000.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0166-0019.dcm
+20180109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0168-0107.dcm
+20180111,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Tp006 - No Quant/study/72_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0170-0000.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0111-0001.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0111-0001.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B31s_2/IM-0109-0007.dcm
+20180510,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0111-0000.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B08s_3/IM-0110-0144.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/NM_PSMA_THERAPY_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0111-0324.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0111-0000.dcm
+20180507,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0111-0000.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0111-0000.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rb028/study/Body_3.0_B31s_[CT128]_2/IM-0109-0021-0001.dcm
+20180207,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/48_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0009-0000.dcm
+20180208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/72_HR_Lu-177_PSMA_Whole_Body_1000/IM-0009-0000.dcm
+20180314,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8/IM-0008-0063.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0007-0003.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0009-0001.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0003-0066.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0009-0000.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0004-0017.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_CHEST-NECK_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0009-0001.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0005-0002.dcm
+20180205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/4_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0009-0000.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0006-0055.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0008-0063.dcm
+20180328,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02At012 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_4/IM-0002-0055.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0072-0001.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0072-0001.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0072-0219.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B31s_2/IM-0070-0076.dcm
+20180608,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0072-0000.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B08s_3/IM-0071-0089.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0072-0000.dcm
+20180605,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0072-0000.dcm
+20180607,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0072-0000.dcm
+20180606,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kw033/study/Body_3.0_B31s_[CT128]_2/IM-0070-0143-0002.dcm
+20180131,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0077-0054.dcm
+20180124,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/48_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0080-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0077-0054.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0080-0001.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0073-0025.dcm
+20180131,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0074-0027.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/Localizers_501/IM-0079-0001-0002.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0080-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0074-0027.dcm
+20180129,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/7_DAYS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0080-0000.dcm
+20180125,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/72_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0080-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0075-0071.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_CHEST_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0080-0001.dcm
+20180122,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/4_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0080-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0076-0008.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lm008 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0078-0070.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0105-0001.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0105-0001.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0105-0371.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B31s_2/IM-0103-0165.dcm
+20180426,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0105-0000.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B08s_3/IM-0104-0240.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0105-0000.dcm
+20180423,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0105-0000.dcm
+20180425,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0105-0000.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mw024/study/Body_3.0_B31s_[CT128]_2/IM-0103-0039-0002.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0127-0001.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0127-0001.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0127-0211.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B31s_2/IM-0125-0093.dcm
+20180525,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0127-0000.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B08s_3/IM-0126-0230.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0127-0000.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0127-0000.dcm
+20180524,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0127-0000.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm032/study/Body_3.0_B31s_[CT128]_2/IM-0125-0120-0001.dcm
+20180710,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Fj044/IM-0002-0236.dcm
+20180711,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Kr040/IM-0002-0236.dcm
+20171211,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0030-0074.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0030-0074.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0033-0000.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0033-0001.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0026-0054.dcm
+20171211,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0027-0062.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/Localizers_501/IM-0032-0000-0002.dcm
+20171116,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/72_HRS_POST_RX_Lu-177_PSMA_Whole_Body_1000/IM-0025-0000.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0027-0062.dcm
+20171113,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/Lu-177_PSMA_4_HRS_Whole_Body_1000/IM-0025-0000.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0028-0004.dcm
+20171115,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/48_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0033-0000.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/LU-177_PSMA_NECK-CHEST_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0033-0001.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0029-0063.dcm
+20171114,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Br002 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0031-0062.dcm
+20180102,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0020-0007.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0020-0055.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0023-0000.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0016-0021.dcm
+20180102,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0017-0046.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/Localizers_501/IM-0022-0000-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0023-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0017-0046.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0018-0073.dcm
+20171220,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/48_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0023-0000.dcm
+20171218,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/4_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0023-0000.dcm
+20171227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/9_DAYS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0023-0000.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/LU-177_PSMA_SPECT-CT_CHEST-NECK_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0023-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0019-0004.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0021-0123.dcm
+20171221,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bd004 - No Quant/study/72_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0023-0000.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0044-0001.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0044-0001.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0044-0277.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B31s_2/IM-0042-0122.dcm
+20180419,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0044-0000.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B08s_3/IM-0043-0199.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0044-0000.dcm
+20180416,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0044-0000.dcm
+20180418,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0044-0000.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Cr020/study/Body_3.0_B31s_[CT128]_2/IM-0042-0135-0001.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0083-0001.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0083-0001.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0083-0209.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B31s_2/IM-0081-0131.dcm
+20180622,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0083-0000.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B08s_3/IM-0082-0093.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0083-0000.dcm
+20180619,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0083-0000.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0083-0000.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Lt035/study/Body_3.0_B31s_[CT128]_2/IM-0081-0128-0002.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0053-0001.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0053-0379.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B31s_2/IM-0051-0185.dcm
+20180322,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0053-0000.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B08s_3/IM-0052-0006.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0053-0000.dcm
+20180319,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0053-0000.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0053-0001.dcm
+20180321,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0053-0000.dcm
+20180320,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gc019/study/Body_3.0_B31s_[CT128]_2/IM-0051-0045-0001.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0050-0001.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0050-0001.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0050-0059.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B31s_2/IM-0048-0080.dcm
+20180524,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0050-0000.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B08s_3/IM-0049-0048.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0050-0000.dcm
+20180521,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0050-0000.dcm
+20180523,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0050-0000.dcm
+20180522,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dj031/study/Body_3.0_B31s_[CT128]_2/IM-0048-0081-0002.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Dd039/IM-0002-0236.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0025-0476.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Body_3.0_B31s_2/IM-0024-0052.dcm
+20180705,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0025-0000.dcm
+20180705,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/PSMA_3-pos_SPECT-Pelvis-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0025-0001-0001.dcm
+20180705,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/PSMA_3-pos_SPECT-Chest-nNeck_-_Bed_3_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0025-0001.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0025-0000.dcm
+20180702,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0025-0000.dcm
+20180705,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/PSMA_3-pos_SPECT-Abdomen_-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0025-0001-0001.dcm
+20180706,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/96_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0025-0000.dcm
+20180705,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bj043/study/Body_3.0_B31s_[CT128]_2/IM-0024-0113-0003.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0093-0001.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0093-0001.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0093-0194.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B31s_2/IM-0091-0082.dcm
+20180628,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0093-0000.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B08s_3/IM-0092-0141.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0093-0000.dcm
+20180625,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0093-0000.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0093-0000.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mj038/study/Body_3.0_B31s_[CT128]_2/IM-0091-0106-0001.dcm
+20180228,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/PSMA_2-pos_SPECT-Neck-Chest_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0148-0001.dcm
+20180227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0148-0224.dcm
+20180227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B31s_2/IM-0145-0200.dcm
+20180301,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0148-0000.dcm
+20180227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B08s_3/IM-0146-0144.dcm
+20180227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Tumor_Imaging_[1st_WB_Recon_-_NoAC_]_1000/IM-0148-0224.dcm
+20180227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Localizers_501/IM-0147-0000.dcm
+20180227,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0148-0000.dcm
+20180226,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0148-0000.dcm
+20180228,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0148-0000.dcm
+20180228,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/Body_3.0_B31s_[CT128]_2/IM-0145-0166-0002.dcm
+20180228,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sw013/study/PSMA_2-pos_SPECT-Abdomen_-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0148-0001.dcm
+20180711,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ht045/IM-0002-0236.dcm
+20180131,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0038-0048.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/Lu-177_PSMA_Whole_Body_1000/IM-0041-0000.dcm
+20180124,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/48_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0041-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0038-0048.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/LU-177_PSMA_SPECT-CT_CHEST_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0041-0001.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0034-0037.dcm
+20180131,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0035-0004.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/Localizers_501/IM-0040-0000-0001.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0041-0001.dcm
+20180122,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/4_hrs_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0041-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0035-0004.dcm
+20180125,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/72_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0041-0000.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0036-0103.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0037-0064.dcm
+20180123,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Bs007 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0039-0109.dcm
+20180718,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Gg047/IM-0002-0236.dcm
+20180731,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Mm051/IM-0002-0236.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0015-0001.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0015-0001.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0015-0045.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_2/IM-0013-0218.dcm
+20180628,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0015-0000.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B08s_3/IM-0014-0140.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0015-0000.dcm
+20180625,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0015-0000.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0015-0000.dcm
+20180706,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ba036/study/Body_3.0_B31s_[CT128]_2/IM-0013-0098-0002.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0124-0001.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B41s_4/IM-0123-0233.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B08s_3/IM-0122-0132.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0124-0001.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0124-0303.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B31s_[CT128]_2/IM-0121-0128-0001.dcm
+20180405,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0124-0000.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0124-0000.dcm
+20180402,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0124-0000.dcm
+20180403,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/Body_2.5_B31s_2/IM-0121-0281.dcm
+20180404,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Rm017/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0124-0000.dcm
+20180314,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_8/IM-0089-0032.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0088-0028.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0090-0001.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/24_HRS_POST_INJ_Lu-177_PSMA_Whole_Body_1000/IM-0090-0000.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0084-0075.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0085-0058.dcm
+20180205,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0090-0000.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_CHEST-NECK_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0090-0001.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0086-0114.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0087-0049.dcm
+20180207,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0090-0000.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0089-0032.dcm
+20180208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/72_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0090-0000.dcm
+20180314,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ma011 - No Quant/study/3D_AbdRoutine_5.0_B31s_[CT128]_4/IM-0086-0064.dcm
+20180102,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0098-0005.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0098-0005.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0102-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/24_HRS_WB_SCAN_Lu-177_PSMA_Whole_Body_1000/IM-0102-0000.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/3D_AbdRoutine_5.0_B31s_9/IM-0100-0008.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0094-0021.dcm
+20180102,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0095-0009.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/Localizers_501/IM-0101-0000-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0095-0009.dcm
+20171218,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/4_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0102-0000.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0096-0003.dcm
+20171220,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/48_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0102-0000.dcm
+20171218,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/4HR_WB_1000/IM-0102-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/LU-177_PSMA_SPECT-CT_CHEST-NECK_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0102-0001.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0097-0059.dcm
+20171219,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0099-0043.dcm
+20171221,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Ml005 - No Quant/study/72_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0102-0000.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02DD039/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02SN041/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180731,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02MM051/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180711,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02KR040/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02SG042/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180711,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02HT045/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02BJ043/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180710,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02FJ044/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180718,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02GG047/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180206,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02AT012/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180801,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/Posterior Images/02HK050/24 HRS POST Lu-177 PSMA Whole Body_posterior.dcm
+20180208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0066-0071.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0066-0071.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0069-0000.dcm
+20180201,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0069-0000.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0069-0001.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0062-0055.dcm
+20180208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0063-0004.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/Localizers_501/IM-0068-0000-0002.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0063-0004.dcm
+20180129,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0069-0000.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0064-0050.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_CHEST_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0069-0001.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0065-0074.dcm
+20180131,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0069-0000.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Jw009 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0067-0017.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0144-0001.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0144-0001.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0144-0089.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B31s_2/IM-0142-0020.dcm
+20180629,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0144-0000.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B08s_3/IM-0143-0202.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0144-0000.dcm
+20180626,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0144-0000.dcm
+20180628,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0144-0000.dcm
+20180627,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sn041/study/Body_3.0_B31s_[CT128]_2/IM-0142-0156-0001.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0108-0001.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0108-0001.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0108-0098.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B31s_2/IM-0106-0179.dcm
+20180622,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0108-0000.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B08s_3/IM-0107-0184.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0108-0000.dcm
+20180619,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0108-0000.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0108-0000.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Nd034/study/Body_3.0_B31s_[CT128]_2/IM-0106-0119-0001.dcm
+20180801,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Hk050/IM-0002-0236.dcm
+20180706,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0141-0001.dcm
+20180706,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0141-0001.dcm
+20180710,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/8_DAYS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0141-0000.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0141-0311.dcm
+20180705,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0141-0000.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0141-0000.dcm
+20180702,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0141-0000.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B31s_3/IM-0139-0326.dcm
+20180703,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B08s_4/IM-0140-0181.dcm
+20180706,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/Body_3.0_B31s_[CT128]_3/IM-0139-0153-0002.dcm
+20180706,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sg042/study/96_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0141-0000.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0130-0001.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0130-0001.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0130-0085.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B31s_2/IM-0128-0229.dcm
+20180426,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0130-0000.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B08s_3/IM-0129-0097.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0130-0000.dcm
+20180423,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0130-0000.dcm
+20180425,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0130-0000.dcm
+20180424,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Sf022/study/Body_3.0_B31s_[CT128]_2/IM-0128-0066-0001.dcm
+20171208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_7/IM-0175-0062.dcm
+20171106,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/Lu-177_PSMA_Whole_Body_1000/IM-0178-0000.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_7/IM-0175-0062.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0178-0000.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/LU-177_PSMA_SPECT-CT_HEAD-CHEST_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0178-0001.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0171-0007.dcm
+20171208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0172-0028.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/Localizers_501/IM-0177-0001-0001.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0178-0001.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0172-0028.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0173-0107.dcm
+20171108,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/48_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0178-0000.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/AC_AbdRoutine_5.0_B08s_6/IM-0174-0057.dcm
+20171115,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/9_DAYS_POST_RX_Lu-177_PSMA_Whole_Body_1000/IM-0170-0000.dcm
+20171107,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/3D_AbdRoutine_5.0_B31s_8/IM-0176-0037.dcm
+20171109,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Wm001 - No Quant/study/72_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0178-0000.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0047-0001.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0047-0001.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0047-0314.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B31s_2/IM-0045-0198.dcm
+20180419,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0047-0000.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B08s_3/IM-0046-0239.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0047-0000.dcm
+20180416,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0047-0000.dcm
+20180425,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/9_DAYS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0044-0000.dcm
+20180418,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0047-0000.dcm
+20180417,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Di023/study/Body_3.0_B31s_[CT128]_2/IM-0045-0071-0002.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0061-0001.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0061-0001.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B31s_2/IM-0059-0035.dcm
+20180511,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0061-0000.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B08s_3/IM-0060-0199.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/NM_PSMA_THERAPY_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0061-0152.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0061-0000.dcm
+20180508,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0061-0000.dcm
+20180510,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0061-0000.dcm
+20180509,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02It026/study/Body_3.0_B31s_[CT128]_2/IM-0059-0041-0001.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/PSMA_2-pos_SPECT-Pelvis-Abdomen-_Bed_2_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0181-0001.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/PSMA_2-pos_SPECT-Chest-Neck_-_Bed_1_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0181-0001.dcm
+20180619,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Tumor_Imaging_[xSPECT_Quant_Recon_I48S1G0_2-5BP_-_AC_]_1000/IM-0181-0044.dcm
+20180619,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B31s_2/IM-0179-0039.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0181-0000.dcm
+20180619,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B08s_3/IM-0180-0049.dcm
+20180619,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/24_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0181-0000.dcm
+20180618,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0181-0000.dcm
+20180620,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0181-0000.dcm
+20180621,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02Yr037/study/Body_3.0_B31s_[CT128]_2/IM-0179-0166-0001.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/ChestRoutine_5.0_B41s_7/IM-0159-0045.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/24_HRS_Lu-177_PSMA_Whole_Body_1000/IM-0162-0000.dcm
+20180201,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/72_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0162-0000.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_abdomen_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0162-0001.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AC_AbdRoutine_5.0_B08s_2/IM-0155-0029.dcm
+20180208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AbdRoutine_5.0_B41s_[CT128]_3/IM-0156-0053.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/Localizers_501/IM-0161-0000-0001.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AbdRoutine_5.0_B41s_3/IM-0156-0053.dcm
+20180129,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/4_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0162-0000.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/3D_AbdRoutine_5.0_B31s_4/IM-0157-0055.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/24_HRS_LU-177_PSMA_SPECT-CT_CHEST_[F3DS6I6G0_-_SC_-_AC_]_1000/IM-0162-0001.dcm
+20180208,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/ChestRoutine_5.0_B41s_[CT128]_7/IM-0159-0045.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/3D_ChestRoutine_5.0_B31s_8/IM-0160-0122.dcm
+20180131,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/48_HRS_POST_Lu-177_PSMA_Whole_Body_1000/IM-0162-0000.dcm
+20180130,/radraid/apps/personal/tfrigerio/MedSAM_sandbox/UCLA_Lu_PSMA_trial/data/02To010 - No Quant/study/AC_ChestRoutine_5.0_B08s_6/IM-0158-0014.dcm

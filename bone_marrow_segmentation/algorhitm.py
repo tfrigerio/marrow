@@ -81,32 +81,42 @@ def full_pipeline(image_path, bone_mask_path, output_path, length):
     save_masks(connected_components, output_path)
     return print(bone_mask_path[length:])
 
-image_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_PSMA_trial_nifti_data/converted_series/converted_series_approved_'
-bone_mask_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_PSMA_trial_nifti_data/segmentation_folder/segmentations_'
-output_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_PSMA_trial_nifti_data/useful_segmentations/segmentation_folder/segmentations_'
-length = len('/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_PSMA_trial_nifti_data/segmentation_folder/segmentations_0')
+image_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_nifti_3D_data'
+bone_mask_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_nifti_3D_data'
+output_path_base = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_nifti_3D_data'
+length = len('/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_nifti_3D_data')
 
 segmentationlist=[]
 with open('/radraid/apps/personal/tfrigerio/marrow/text_lists/useful_segmentations.txt','r') as f:
     for line in f:
         segmentationlist.append(line[:-1])
 paths_to_non_ct_scans = []
-with open('/radraid/apps/personal/tfrigerio/non_ct_scans_path.txt','r') as f:
+with open('/radraid/apps/personal/tfrigerio/marrow/text_lists/non_ct_scans_path.txt','r') as f:
     for line in f:
         paths_to_non_ct_scans.append(line[:-1])
 print(paths_to_non_ct_scans)
-for i in range(0,248):
-    image_path = image_path_base+str(i)+'.nii.gz'
-    if image_path in paths_to_non_ct_scans:
-        continue
-    print('New Scan: '+str(i))
-    t_0 = time.time()
-    for j in range(len(segmentationlist)):
-        bone_mask_path = bone_mask_path_base+str(i)+'/'+segmentationlist[j]
-        output_path = output_path_base+str(i)+'/'+segmentationlist[j][:-7]+'_marrow.nii.gz'
-        full_pipeline(image_path, bone_mask_path, output_path, length)
-    t_1 = time.time()
-    if t_1-t_0<=10:
-        with open('/radraid/apps/personal/tfrigerio/segmentations_to_check_2.txt','a') as f:
-            f.write('Scan '+str(i)+' took '+str(t_1-t_0)+' seconds\n')
-   
+
+list_directory = os.listdir('/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_nifti_3D_data')
+print(list_directory)
+image_dir = ''
+list_subdir = []
+for i in range(len(list_directory)):
+    image_dir = image_path_base + '/' + list_directory[i]
+    print('New Directory: '+ image_dir)
+    
+    list_subdir = [d for d in os.listdir(image_dir) if 'segmentation' in d]
+    for j in range(len(list_subdir)):
+        print('New Subdirectory: '+ list_subdir[j])
+
+        image_path = image_dir + '/' + list_subdir[j][:-13] + '.nii.gz'
+        segmentation_list = os.listdir(image_dir+'/'+list_subdir[j])
+        for k in range(len(segmentation_list)):
+            t_0 = time.time()
+            bone_mask_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k]
+            output_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k][:-7] + '_marrow.nii.gz'
+            full_pipeline(image_path, bone_mask_path, output_path, length)
+
+            t_1 = time.time()
+            if t_1-t_0<=10:
+                with open('/radraid/apps/personal/tfrigerio/segmentations_to_check_2.txt','a') as f:
+                    f.write('Scan '+str(i)+' took '+str(t_1-t_0)+' seconds\n')
