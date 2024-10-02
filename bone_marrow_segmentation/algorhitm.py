@@ -34,7 +34,7 @@ def threshold_segmentation_of_bone_marrow(bone_array, threshold_up, threshold_do
 #Step 6 Postprocessing
 
 def opening3D(bone_marrow_array_mask, iterations):
-    kernel = np.ones((5, 5, 5), np.uint8)
+    kernel = np.ones((5, 5, 1), np.uint8)
     eroded = binary_erosion(bone_marrow_array_mask, structure=kernel, iterations=iterations)
     opened = binary_dilation(eroded, structure=kernel, iterations=iterations)
     return opened
@@ -73,8 +73,8 @@ def full_pipeline(image_path, bone_mask_path, output_path, length):
         else:
             raise ValueError('Image and mask have different shapes')
     bone_array = isolate_bone_on_image(image_array, bone_mask_array)
-    bone_marrow_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 350, -100, bone_mask_array)
-    if np.shape(image_array)[0] >= 100 and np.shape(image_array)[1] >= 100 and np.shape(image_array)[2] >= 100:
+    bone_marrow_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 200, -100, bone_mask_array)
+    if np.max(np.shape(image_array))>= 100 :
         bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1)
     
     connected_components = connected_component_processing(bone_marrow_array_mask, bone_mask)
@@ -110,13 +110,17 @@ for i in range(len(list_directory)):
 
         image_path = image_dir + '/' + list_subdir[j][:-13] + '.nii.gz'
         segmentation_list = os.listdir(image_dir+'/'+list_subdir[j])
+ 
         for k in range(len(segmentation_list)):
             t_0 = time.time()
             bone_mask_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k]
-            output_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k][:-7] + '_marrow.nii.gz'
-            full_pipeline(image_path, bone_mask_path, output_path, length)
+            print(bone_mask_path)
+            if '_marrow' not in bone_mask_path:
+                print("LFG")
+                output_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k][:-7] + '_marrow_sub220.nii.gz'
+                full_pipeline(image_path, bone_mask_path, output_path, length)
 
-            t_1 = time.time()
-            if t_1-t_0<=10:
-                with open('/radraid/apps/personal/tfrigerio/segmentations_to_check_2.txt','a') as f:
-                    f.write('Scan '+str(i)+' took '+str(t_1-t_0)+' seconds\n')
+                t_1 = time.time()
+                if t_1-t_0<=10:
+                    with open('/radraid/apps/personal/tfrigerio/segmentations_to_check_2.txt','a') as f:
+                        f.write('Scan '+str(i)+' took '+str(t_1-t_0)+' seconds\n')
