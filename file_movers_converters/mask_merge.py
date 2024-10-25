@@ -2,11 +2,11 @@ import numpy as np
 import nibabel as nib
 import os
 
-def load_nifti_files_with_keywords(root_dir, keyword_1):
+def load_nifti_files_without_keywords(root_dir, keyword_1):
     nifti_files = []
     for root, dirs, files in os.walk(root_dir):
         for file in files:
-            if keyword_1 in file and file.endswith('.nii.gz'):
+            if keyword_1 not in file and file.endswith('.nii.gz'):
                 file_path = os.path.join(root, file)
                 try:
                     nifti = nib.load(file_path).get_fdata()
@@ -23,7 +23,7 @@ def merge_nifti_files(nifti_files):
         merged_nifti = np.logical_or(merged_nifti,nifti)
     return merged_nifti
 
-root_dir = '/radraid/apps/personal/tfrigerio/marrow/UCLA_Lu_nifti_3D_data'
+root_dir = '/radraid/apps/personal/tfrigerio/marrow/bone_threshold_segmentation'
 keyword_1 = 'marrow'
 #keyword_2 = 'iliac'
 
@@ -35,11 +35,11 @@ for study in study_list:
     CT_list = [item for item in os.listdir(os.path.join(root_dir, study)) if 'segmentation' in item]
     for CT in CT_list:
         print(f"Processing CT {CT}")
-        nifti_files, last_nifti_header = load_nifti_files_with_keywords(os.path.join(root_dir, study, CT), keyword_1)
+        nifti_files, last_nifti_header = load_nifti_files_without_keywords(os.path.join(root_dir, study, CT), keyword_1)
         merged_nifti = merge_nifti_files(nifti_files)
         print(f"Shape of merged nifti: {type(merged_nifti)}")
         #Save the merged nifti file
-        output_path = os.path.join(root_dir, study, CT, 'assembled_segmentation_marrow.nii.gz')
+        output_path = os.path.join(root_dir, study, CT, 'assembled_segmentation.nii.gz')
         nifti = nib.Nifti1Image(merged_nifti, affine = None, header = last_nifti_header)
         print(f"Shape of nifti: {nifti.shape}")
         nib.save(nifti, output_path)

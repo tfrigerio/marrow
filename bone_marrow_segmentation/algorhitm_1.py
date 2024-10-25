@@ -75,7 +75,7 @@ def full_pipeline(image_path, bone_mask_path, output_path, output_path_cortical,
         else:
             raise ValueError('Image and mask have different shapes')
     bone_array = isolate_bone_on_image(image_array, bone_mask_array)
-    bone_marrow_array_mask, cortical_bone_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 350, -100, bone_mask_array)
+    bone_marrow_array_mask, cortical_bone_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 180, -100, bone_mask_array)
     # if np.shape(image_array)[0] >= 100 and np.shape(image_array)[1] >= 100 and np.shape(image_array)[2] >= 100:
     #     bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1)
     if np.shape(image_array)[0] >= 512:

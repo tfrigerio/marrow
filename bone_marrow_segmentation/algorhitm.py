@@ -1,9 +1,7 @@
 import numpy as np 
 import nibabel as nib
-import numpy as np 
 from scipy.ndimage import binary_dilation, binary_erosion
 import os
-import time
 
 
 #Step 1: Load image and bone mask
@@ -19,7 +17,16 @@ def isolate_bone_on_image(image_array, bone_mask_array):
     bone_array = image_array * bone_mask_array
     return bone_array
 
+def obtain_upper_threshold(image_array, bone_mask_array):
+    values = image_array[bone_mask_array==1]
+    if np.array_equal(values, np.zeros(np.shape(values))) == True:
+        return 0
+    else:
+        fifth_percentile = np.percentile(values, 5)
+        threshold = fifth_percentile + 130
+        return threshold
 #Step 3 Threshold segmentation of bone marrow
+
 def threshold_segmentation_of_bone_marrow(bone_array, threshold_up, threshold_down, bone_mask_array):
     bone_marrow_array_mask = np.zeros(bone_array.shape)
     bone_marrow_array_mask[bone_array < threshold_up] = 1
@@ -34,10 +41,17 @@ def threshold_segmentation_of_bone_marrow(bone_array, threshold_up, threshold_do
 #Step 6 Postprocessing
 
 def opening3D(bone_marrow_array_mask, iterations):
-    kernel = np.ones((5, 5, 1), np.uint8)
-    eroded = binary_erosion(bone_marrow_array_mask, structure=kernel, iterations=iterations)
-    opened = binary_dilation(eroded, structure=kernel, iterations=iterations)
-    return opened
+    if np.min(np.shape(bone_marrow_array_mask)) <= 100:
+        
+        kernel = np.ones((5, 5, 1), np.uint8)
+        eroded = binary_erosion(bone_marrow_array_mask, structure=kernel, iterations=iterations)
+        opened = binary_dilation(eroded, structure=kernel, iterations=iterations)
+        return opened
+    else:
+        kernel = np.ones((5, 5, 3), np.uint8)
+        eroded = binary_erosion(bone_marrow_array_mask, structure=kernel, iterations=iterations)
+        opened = binary_dilation(eroded, structure=kernel, iterations=iterations)
+        return opened
 
 
 
@@ -73,7 +87,8 @@ def full_pipeline(image_path, bone_mask_path, output_path, length):
         else:
             raise ValueError('Image and mask have different shapes')
     bone_array = isolate_bone_on_image(image_array, bone_mask_array)
-    bone_marrow_array_mask = threshold_segmentation_of_bone_marrow(bone_array, 200, -100, bone_mask_array)
+    upper_threshold = obtain_upper_threshold(image_array, bone_mask_array)
+    bone_marrow_array_mask = threshold_segmentation_of_bone_marrow(bone_array, upper_threshold, -100, bone_mask_array)
     if np.max(np.shape(image_array))>= 100 :
         bone_marrow_array_mask = opening3D(bone_marrow_array_mask, 1)
     
@@ -112,15 +127,10 @@ for i in range(len(list_directory)):
         segmentation_list = os.listdir(image_dir+'/'+list_subdir[j])
  
         for k in range(len(segmentation_list)):
-            t_0 = time.time()
             bone_mask_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k]
             print(bone_mask_path)
             if '_marrow' not in bone_mask_path:
                 print("LFG")
-                output_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k][:-7] + '_marrow_sub220.nii.gz'
+                output_path = image_dir + '/' + list_subdir[j] + '/' + segmentation_list[k][:-7] + '_marrow_dynamic_130.nii.gz'
                 full_pipeline(image_path, bone_mask_path, output_path, length)
 
-                t_1 = time.time()
-                if t_1-t_0<=10:
-                    with open('/radraid/apps/personal/tfrigerio/segmentations_to_check_2.txt','a') as f:
-                        f.write('Scan '+str(i)+' took '+str(t_1-t_0)+' seconds\n')
